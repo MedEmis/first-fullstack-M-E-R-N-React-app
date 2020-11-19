@@ -1,0 +1,7 @@
+{
+	"port": 5000,
+	"secretJWTkey": "secret app key",
+	"mongoUri": "mongodb+srv://Max:max2020@cluster0.ojwnz.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+  }
+  
